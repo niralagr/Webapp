@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/WebApp/v17
+/.vs
+/WebApp/.vs/WebApp
+/WebApp/WebApp/bin/Debug/net6.0
+/WebApp/WebApp/obj
